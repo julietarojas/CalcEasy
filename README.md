@@ -2,7 +2,7 @@
 
 This basic calculator implemented in HTML, CSS and JavaScript performs simple operations of addition, subtraction, multiplication, division and calculation of percentages. It also has functions to change the number sign and clear the screen.
 
-[!titulo_imagen](calculadora.png)
+[!calculadora.png]
 
 ## HTML
 
